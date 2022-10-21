@@ -884,6 +884,6 @@ void __attribute__((__cdecl__)) __mingw_str_free(void *ptr);
 # 3 "test.c"
 int main()
 {
-printf("Amit")
+printf("thank you engineer mostafa");
 return 0;
 }
